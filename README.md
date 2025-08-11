@@ -25,8 +25,8 @@ Click the "Fork" button at the top right of this page to copy this repository to
 Clone the repository from your account to your local machine:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/stellar-folio.git
-cd stellar-folio
+git clone https://github.com/ApexUrke/StellarFolio.git
+cd StellarFolio
 ```
 
 ### 3. Install Dependencies
