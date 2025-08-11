@@ -2,8 +2,6 @@
 
 Welcome to Stellar Folio, a customizable, futuristic developer profile website template designed for easy forking and personalization. This template is built with Next.js and Tailwind CSS to provide a stunning and interactive portfolio experience. This project was created by ApexLabs.
 
-![Stellar Folio Screenshot](https://placehold.co/1200x600.png?text=Stellar+Folio+Screenshot)
-*A placeholder for what your stunning portfolio could look like.*
 
 ## Features
 
